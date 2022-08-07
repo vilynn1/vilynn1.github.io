@@ -1,0 +1,12 @@
+{"k":"0000000078","o":"0000000322","v":"001"}
+{"_id":2,"_uid":2,"_dt":1658705609640,"_s":"9e1590fa34c3e3d5c8d4aa0e176cf3d0"}
+{"name":"HTML widgets","type":"local_folder","url":"/webappbuilder/builder/plugins/stemapps/web2d/../../../../stemapp//widgets/","location":"E:\\Geographic Information Systems - Seneca College\\Internet Mapping\\Assignment 4\\ArcGISWebAppBuilder\\client\\stemapp\\widgets","category":"widget","_id":{"$wrap":"$oid","v":2}}
+{"k":"0000000078","o":"0000000318","v":"001"}
+{"_id":3,"_uid":3,"_dt":1658705610869,"_s":"3a2fff5a64d4ee5114ef6c59eb903d52"}
+{"name":"HTML themes","type":"local_folder","url":"/webappbuilder/builder/plugins/stemapps/web2d/../../../../stemapp//themes/","location":"E:\\Geographic Information Systems - Seneca College\\Internet Mapping\\Assignment 4\\ArcGISWebAppBuilder\\client\\stemapp\\themes","category":"theme","_id":{"$wrap":"$oid","v":3}}
+{"k":"0000000078","o":"0000000328","v":"001"}
+{"_id":4,"_uid":4,"_dt":1658705611254,"_s":"7739aea73529a0328c05f700bacd281a"}
+{"name":"HTML3D widgets","type":"local_folder","url":"/webappbuilder/builder/plugins/stemapps/web3d/../../../../stemapp3d//widgets/","location":"E:\\Geographic Information Systems - Seneca College\\Internet Mapping\\Assignment 4\\ArcGISWebAppBuilder\\client\\stemapp3d\\widgets","category":"widget","_id":{"$wrap":"$oid","v":4}}
+{"k":"0000000078","o":"0000000324","v":"001"}
+{"_id":5,"_uid":5,"_dt":1658705611668,"_s":"467b7ecf214ba10d67bd6778f1768552"}
+{"name":"HTML3D themes","type":"local_folder","url":"/webappbuilder/builder/plugins/stemapps/web3d/../../../../stemapp3d//themes/","location":"E:\\Geographic Information Systems - Seneca College\\Internet Mapping\\Assignment 4\\ArcGISWebAppBuilder\\client\\stemapp3d\\themes","category":"theme","_id":{"$wrap":"$oid","v":5}}

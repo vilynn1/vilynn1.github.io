@@ -1,0 +1,279 @@
+[2022-07-24T18:33:29.575] [INFO] repo - Read repository items: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets
+[2022-07-24T18:33:30.831] [INFO] app - Find 6 predfinded apps.
+[2022-07-24T18:33:30.831] [INFO] repo - insert HTML.About
+[2022-07-24T18:33:30.832] [INFO] repo - insert HTML.AddData
+[2022-07-24T18:33:30.833] [INFO] repo - insert HTML.Analysis
+[2022-07-24T18:33:30.833] [INFO] repo - insert HTML.AttributeTable
+[2022-07-24T18:33:30.833] [INFO] repo - insert HTML.BasemapGallery
+[2022-07-24T18:33:30.834] [INFO] repo - insert HTML.BatchAttributeEditor
+[2022-07-24T18:33:30.834] [INFO] repo - insert HTML.Bookmark
+[2022-07-24T18:33:30.834] [INFO] repo - insert HTML.BusinessAnalyst
+[2022-07-24T18:33:30.834] [INFO] repo - insert HTML.Chart
+[2022-07-24T18:33:30.834] [INFO] repo - insert HTML.Coordinate
+[2022-07-24T18:33:30.834] [INFO] repo - insert HTML.CoordinateConversion
+[2022-07-24T18:33:30.835] [INFO] repo - insert HTML.CostAnalysis
+[2022-07-24T18:33:30.835] [INFO] repo - insert HTML.DataAggregation
+[2022-07-24T18:33:30.835] [INFO] repo - insert HTML.Directions
+[2022-07-24T18:33:30.836] [INFO] repo - insert HTML.DistanceAndDirection
+[2022-07-24T18:33:30.836] [INFO] repo - insert HTML.DistrictLookup
+[2022-07-24T18:33:30.837] [INFO] repo - insert HTML.Draw
+[2022-07-24T18:33:30.838] [INFO] repo - insert HTML.Edit
+[2022-07-24T18:33:30.838] [INFO] repo - insert HTML.EmergencyResponseGuide
+[2022-07-24T18:33:30.839] [INFO] repo - insert HTML.ExtentNavigate
+[2022-07-24T18:33:30.839] [INFO] repo - insert HTML.Filter
+[2022-07-24T18:33:30.839] [INFO] repo - insert HTML.FullScreen
+[2022-07-24T18:33:30.840] [INFO] repo - insert HTML.GeoLookup
+[2022-07-24T18:33:30.840] [INFO] repo - insert HTML.Geoprocessing
+[2022-07-24T18:33:30.841] [INFO] repo - insert HTML.GriddedReferenceGraphic
+[2022-07-24T18:33:30.841] [INFO] repo - insert HTML.GridOverlay
+[2022-07-24T18:33:30.841] [INFO] repo - insert HTML.GroupFilter
+[2022-07-24T18:33:30.842] [INFO] repo - insert HTML.HomeButton
+[2022-07-24T18:33:30.843] [INFO] repo - insert HTML.ImageMeasurement
+[2022-07-24T18:33:30.843] [INFO] repo - insert HTML.IncidentAnalysis
+[2022-07-24T18:33:30.844] [INFO] repo - insert HTML.Infographic
+[2022-07-24T18:33:30.846] [INFO] repo - insert HTML.InfoSummary
+[2022-07-24T18:33:30.847] [INFO] repo - insert HTML.LayerList
+[2022-07-24T18:33:30.847] [INFO] repo - insert HTML.Legend
+[2022-07-24T18:33:30.848] [INFO] repo - insert HTML.Measurement
+[2022-07-24T18:33:30.848] [INFO] repo - insert HTML.MyLocation
+[2022-07-24T18:33:30.849] [INFO] repo - insert HTML.NearMe
+[2022-07-24T18:33:30.849] [INFO] repo - insert HTML.NetworkTrace
+[2022-07-24T18:33:30.849] [INFO] repo - insert HTML.ObliqueViewer
+[2022-07-24T18:33:30.850] [INFO] repo - insert HTML.OverviewMap
+[2022-07-24T18:33:30.850] [INFO] repo - insert HTML.ParcelDrafter
+[2022-07-24T18:33:30.851] [INFO] repo - insert HTML.Print
+[2022-07-24T18:33:30.852] [INFO] repo - insert HTML.PublicNotification
+[2022-07-24T18:33:30.852] [INFO] repo - insert HTML.Query
+[2022-07-24T18:33:30.853] [INFO] repo - insert HTML.RelatedTableCharts
+[2022-07-24T18:33:30.853] [INFO] repo - insert HTML.ReportFeature
+[2022-07-24T18:33:30.854] [INFO] repo - insert HTML.ReviewerDashboard
+[2022-07-24T18:33:30.855] [INFO] repo - insert HTML.Scalebar
+[2022-07-24T18:33:30.855] [INFO] repo - insert HTML.Screening
+[2022-07-24T18:33:30.856] [INFO] repo - insert HTML.Search
+[2022-07-24T18:33:30.856] [INFO] repo - insert HTML.Select
+[2022-07-24T18:33:30.856] [INFO] repo - insert HTML.Share
+[2022-07-24T18:33:30.857] [INFO] repo - insert HTML.SituationAwareness
+[2022-07-24T18:33:30.858] [INFO] repo - insert HTML.SmartEditor
+[2022-07-24T18:33:30.858] [INFO] repo - insert HTML.Splash
+[2022-07-24T18:33:30.859] [INFO] repo - insert HTML.Stream
+[2022-07-24T18:33:30.859] [INFO] repo - insert HTML.SuitabilityModeler
+[2022-07-24T18:33:30.860] [INFO] repo - insert HTML.Summary
+[2022-07-24T18:33:30.862] [INFO] repo - insert HTML.Swipe
+[2022-07-24T18:33:30.862] [INFO] repo - insert HTML.ThreatAnalysis
+[2022-07-24T18:33:30.863] [INFO] repo - insert HTML.TimeSlider
+[2022-07-24T18:33:30.863] [INFO] repo - insert HTML.Visibility
+[2022-07-24T18:33:30.864] [INFO] repo - insert HTML.ZoomSlider
+[2022-07-24T18:33:30.865] [INFO] repo - Read repository items: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes
+[2022-07-24T18:33:31.244] [INFO] repo - insert HTML.BoxTheme
+[2022-07-24T18:33:31.246] [INFO] repo - insert HTML.PocketTheme
+[2022-07-24T18:33:31.247] [INFO] repo - insert HTML.JewelryBoxTheme
+[2022-07-24T18:33:31.248] [INFO] repo - insert HTML.DashboardTheme
+[2022-07-24T18:33:31.248] [INFO] repo - insert HTML.PlateauTheme
+[2022-07-24T18:33:31.249] [INFO] repo - insert HTML.BillboardTheme
+[2022-07-24T18:33:31.250] [INFO] repo - insert HTML.LaunchpadTheme
+[2022-07-24T18:33:31.251] [INFO] repo - insert HTML.FoldableTheme
+[2022-07-24T18:33:31.251] [INFO] repo - insert HTML.DartTheme
+[2022-07-24T18:33:31.252] [INFO] repo - insert HTML.TabTheme
+[2022-07-24T18:33:31.253] [INFO] repo - Read repository items: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets
+[2022-07-24T18:33:31.656] [INFO] repo - insert HTML3D.3DFx
+[2022-07-24T18:33:31.657] [INFO] repo - insert HTML3D.Measurement3D
+[2022-07-24T18:33:31.658] [INFO] repo - insert HTML3D.LayerList
+[2022-07-24T18:33:31.658] [INFO] repo - insert HTML3D.Daylight
+[2022-07-24T18:33:31.659] [INFO] repo - insert HTML3D.BasemapGallery
+[2022-07-24T18:33:31.660] [INFO] repo - insert HTML3D.Splash
+[2022-07-24T18:33:31.660] [INFO] repo - insert HTML3D.Legend
+[2022-07-24T18:33:31.661] [INFO] repo - insert HTML3D.Coordinate
+[2022-07-24T18:33:31.661] [INFO] repo - insert HTML3D.Home
+[2022-07-24T18:33:31.662] [INFO] repo - insert HTML3D.Share
+[2022-07-24T18:33:31.662] [INFO] repo - insert HTML3D.FullScreen
+[2022-07-24T18:33:31.662] [INFO] repo - insert HTML3D.Slides
+[2022-07-24T18:33:31.663] [INFO] repo - insert HTML3D.Compass
+[2022-07-24T18:33:31.663] [INFO] repo - insert HTML3D.ZoomSlider
+[2022-07-24T18:33:31.664] [INFO] repo - insert HTML3D.Search
+[2022-07-24T18:33:31.665] [INFO] repo - insert HTML3D.About
+[2022-07-24T18:33:31.665] [INFO] repo - insert HTML3D.MyLocation
+[2022-07-24T18:33:31.666] [INFO] repo - insert HTML3D.Navigate
+[2022-07-24T18:33:31.666] [INFO] repo - Read repository items: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\themes
+[2022-07-24T18:33:31.870] [INFO] repo - insert HTML3D.BillboardTheme
+[2022-07-24T18:33:31.871] [INFO] repo - insert HTML3D.LaunchpadTheme
+[2022-07-24T18:33:31.871] [INFO] repo - insert HTML3D.JewelryBoxTheme
+[2022-07-24T18:33:31.872] [INFO] repo - insert HTML3D.FoldableTheme
+[2022-07-24T18:33:31.873] [INFO] repo - insert HTML3D.BoxTheme
+[2022-07-24T18:33:31.873] [INFO] repo - insert HTML3D.DashboardTheme
+[2022-07-24T18:33:31.874] [INFO] repo - insert HTML3D.TabTheme
+[2022-07-24T18:33:31.875] [INFO] repo - insert HTML3D.DartTheme
+[2022-07-24T18:33:33.161] [INFO] default - No token is found, redirect /webappbuilder to /webappbuilder?action=setportalurl
+[2022-07-24T20:04:58.946] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\jimu.js
+[2022-07-24T20:05:02.027] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\images
+[2022-07-24T20:05:02.050] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\libs
+[2022-07-24T20:05:02.362] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\index.html
+[2022-07-24T20:05:02.372] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\env.js
+[2022-07-24T20:05:02.373] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\simpleLoader.js
+[2022-07-24T20:05:02.374] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\init.js
+[2022-07-24T20:05:02.381] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\web.config
+[2022-07-24T20:05:02.387] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\dynamic-modules
+[2022-07-24T20:05:02.411] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\readme.html
+[2022-07-24T20:05:02.417] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\config-readme.txt
+[2022-07-24T20:05:02.423] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\configs
+[2022-07-24T20:05:02.434] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\.jshintrc
+[2022-07-24T20:05:02.440] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\.jshintignore
+[2022-07-24T20:05:02.444] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\3rd-party-license.txt
+[2022-07-24T20:05:02.449] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\service-worker.js
+[2022-07-24T20:05:02.456] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\service-worker-registration.js
+[2022-07-24T20:05:02.462] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\browser-message
+[2022-07-24T20:05:02.471] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\FoldableTheme
+[2022-07-24T20:05:03.084] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Scalebar
+[2022-07-24T20:05:03.338] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Search
+[2022-07-24T20:05:03.643] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Coordinate
+[2022-07-24T20:05:03.965] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\OverviewMap
+[2022-07-24T20:05:04.264] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\HomeButton
+[2022-07-24T20:05:04.330] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\MyLocation
+[2022-07-24T20:05:04.606] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\AttributeTable
+[2022-07-24T20:05:05.041] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Splash
+[2022-07-24T20:05:05.418] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ZoomSlider
+[2022-07-24T20:05:05.492] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ExtentNavigate
+[2022-07-24T20:05:05.573] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\FullScreen
+[2022-07-24T20:05:05.663] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Legend
+[2022-07-24T20:05:05.920] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\LayerList
+[2022-07-24T20:05:08.334] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\FullScreen\manifest.json
+[2022-07-24T20:05:08.336] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\FoldableTheme\manifest.json
+[2022-07-24T20:05:08.336] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ZoomSlider\manifest.json
+[2022-07-24T20:05:08.337] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\HomeButton\manifest.json
+[2022-07-24T20:05:08.338] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\MyLocation\manifest.json
+[2022-07-24T20:05:08.339] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Search\manifest.json
+[2022-07-24T20:05:08.340] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ExtentNavigate\manifest.json
+[2022-07-24T20:05:08.341] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Scalebar\manifest.json
+[2022-07-24T20:05:08.342] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\OverviewMap\manifest.json
+[2022-07-24T20:05:08.343] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\AttributeTable\manifest.json
+[2022-07-24T20:05:08.343] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Splash\manifest.json
+[2022-07-24T20:05:08.344] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Coordinate\manifest.json
+[2022-07-24T20:05:08.345] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Legend\manifest.json
+[2022-07-24T20:05:08.346] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\LayerList\manifest.json
+[2022-07-24T20:05:33.558] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\PlateauTheme
+[2022-07-24T20:05:35.039] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\PocketTheme
+[2022-07-24T20:05:36.167] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\PlateauTheme\manifest.json
+[2022-07-24T20:05:37.254] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\DartTheme
+[2022-07-24T20:05:38.047] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\PocketTheme\manifest.json
+[2022-07-24T20:05:39.558] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\BoxTheme
+[2022-07-24T20:05:40.101] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\DartTheme\manifest.json
+[2022-07-24T20:05:41.554] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\BillboardTheme
+[2022-07-24T20:05:41.991] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\BoxTheme\manifest.json
+[2022-07-24T20:05:43.761] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\BillboardTheme\manifest.json
+[2022-07-24T20:05:43.778] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\LaunchpadTheme
+[2022-07-24T20:05:46.623] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\LaunchpadTheme\manifest.json
+[2022-07-24T20:05:49.274] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\JewelryBoxTheme
+[2022-07-24T20:05:51.837] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\JewelryBoxTheme\manifest.json
+[2022-07-24T20:06:08.219] [INFO] app - remove theme BillboardTheme from app 2
+[2022-07-24T20:06:08.252] [INFO] app - remove theme BoxTheme from app 2
+[2022-07-24T20:06:08.296] [INFO] app - remove theme DartTheme from app 2
+[2022-07-24T20:06:08.342] [INFO] app - remove theme FoldableTheme from app 2
+[2022-07-24T20:06:08.391] [INFO] app - remove theme LaunchpadTheme from app 2
+[2022-07-24T20:06:08.433] [INFO] app - remove theme PlateauTheme from app 2
+[2022-07-24T20:06:08.449] [INFO] app - remove theme PocketTheme from app 2
+[2022-07-25T18:31:55.380] [INFO] repo - insert HTML.PopupPanel
+[2022-07-25T18:32:53.060] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\PopupPanel
+[2022-07-25T18:33:44.996] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\BusinessAnalyst
+[2022-07-25T18:33:47.721] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\BusinessAnalyst\manifest.json
+[2022-07-25T18:35:58.463] [INFO] repo - insert HTML.Identify
+[2022-07-25T18:36:31.613] [DEBUG] utils - copy E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Identify
+[2022-07-25T18:36:43.199] [INFO] app - remove widget BusinessAnalyst from app 2
+[2022-07-25T18:43:56.983] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\BillboardTheme\manifest.json
+[2022-07-25T18:43:57.395] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\BoxTheme\manifest.json
+[2022-07-25T18:43:58.312] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\DartTheme\manifest.json
+[2022-07-25T18:43:59.607] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\DashboardTheme\manifest.json
+[2022-07-25T18:44:01.858] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\DemoTheme\manifest.json
+[2022-07-25T18:44:01.907] [INFO] repo - insert HTML.DemoTheme
+[2022-07-25T18:44:01.937] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\FoldableTheme\manifest.json
+[2022-07-25T18:44:03.151] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\JewelryBoxTheme\manifest.json
+[2022-07-25T18:44:03.989] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\PocketTheme\manifest.json
+[2022-07-25T18:44:03.991] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\LaunchpadTheme\manifest.json
+[2022-07-25T18:44:03.992] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\PlateauTheme\manifest.json
+[2022-07-25T18:44:03.992] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\themes\TabTheme\manifest.json
+[2022-07-25T18:44:08.701] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\About\manifest.json
+[2022-07-25T18:44:09.364] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\AddData\manifest.json
+[2022-07-25T18:44:10.353] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Analysis\manifest.json
+[2022-07-25T18:44:11.315] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\AttributeTable\manifest.json
+[2022-07-25T18:44:12.135] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\BasemapGallery\manifest.json
+[2022-07-25T18:44:13.000] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\BatchAttributeEditor\manifest.json
+[2022-07-25T18:44:13.864] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Bookmark\manifest.json
+[2022-07-25T18:44:15.379] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Chart\manifest.json
+[2022-07-25T18:44:16.229] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Coordinate\manifest.json
+[2022-07-25T18:44:16.971] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\CoordinateConversion\manifest.json
+[2022-07-25T18:44:17.982] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\CostAnalysis\manifest.json
+[2022-07-25T18:44:19.291] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\DataAggregation\manifest.json
+[2022-07-25T18:44:20.396] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Directions\manifest.json
+[2022-07-25T18:44:21.217] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\DistanceAndDirection\manifest.json
+[2022-07-25T18:44:22.195] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\DistrictLookup\manifest.json
+[2022-07-25T18:44:23.183] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Draw\manifest.json
+[2022-07-25T18:44:23.908] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Edit\manifest.json
+[2022-07-25T18:44:24.678] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\EmergencyResponseGuide\manifest.json
+[2022-07-25T18:44:26.355] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ExtentNavigate\manifest.json
+[2022-07-25T18:44:26.666] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Filter\manifest.json
+[2022-07-25T18:44:27.480] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\FullScreen\manifest.json
+[2022-07-25T18:44:27.828] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\GeoLookup\manifest.json
+[2022-07-25T18:44:28.597] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Geoprocessing\manifest.json
+[2022-07-25T18:44:29.700] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\GriddedReferenceGraphic\manifest.json
+[2022-07-25T18:44:30.840] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\GridOverlay\manifest.json
+[2022-07-25T18:44:31.767] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\GroupFilter\manifest.json
+[2022-07-25T18:44:32.515] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\HomeButton\manifest.json
+[2022-07-25T18:44:33.021] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ImageMeasurement\manifest.json
+[2022-07-25T18:44:33.681] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\IncidentAnalysis\manifest.json
+[2022-07-25T18:44:34.613] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Infographic\manifest.json
+[2022-07-25T18:44:36.410] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\InfoSummary\manifest.json
+[2022-07-25T18:44:37.169] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\LayerList\manifest.json
+[2022-07-25T18:44:37.983] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Legend\manifest.json
+[2022-07-25T18:44:38.564] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Measurement\manifest.json
+[2022-07-25T18:44:39.243] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\MyLocation\manifest.json
+[2022-07-25T18:44:39.967] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\NearMe\manifest.json
+[2022-07-25T18:44:41.198] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\NetworkTrace\manifest.json
+[2022-07-25T18:44:42.126] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ObliqueViewer\manifest.json
+[2022-07-25T18:44:42.852] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\OverviewMap\manifest.json
+[2022-07-25T18:44:43.545] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ParcelDrafter\manifest.json
+[2022-07-25T18:44:44.726] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Print\manifest.json
+[2022-07-25T18:44:46.399] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\PublicNotification\manifest.json
+[2022-07-25T18:44:47.459] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Query\manifest.json
+[2022-07-25T18:44:48.454] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\RelatedTableCharts\manifest.json
+[2022-07-25T18:44:49.382] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ReportFeature\manifest.json
+[2022-07-25T18:44:50.042] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ReviewerDashboard\manifest.json
+[2022-07-25T18:44:51.575] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Scalebar\manifest.json
+[2022-07-25T18:44:52.255] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Screening\manifest.json
+[2022-07-25T18:44:53.649] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Search\manifest.json
+[2022-07-25T18:44:54.340] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Select\manifest.json
+[2022-07-25T18:44:55.079] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Share\manifest.json
+[2022-07-25T18:44:55.741] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\SituationAwareness\manifest.json
+[2022-07-25T18:44:56.882] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\SmartEditor\manifest.json
+[2022-07-25T18:44:58.167] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Splash\manifest.json
+[2022-07-25T18:44:58.940] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Stream\manifest.json
+[2022-07-25T18:44:59.701] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\SuitabilityModeler\manifest.json
+[2022-07-25T18:45:00.649] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Summary\manifest.json
+[2022-07-25T18:45:01.346] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Swipe\manifest.json
+[2022-07-25T18:45:02.164] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ThreatAnalysis\manifest.json
+[2022-07-25T18:45:03.491] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\TimeSlider\manifest.json
+[2022-07-25T18:45:04.420] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\Visibility\manifest.json
+[2022-07-25T18:45:05.340] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp\widgets\ZoomSlider\manifest.json
+[2022-07-25T18:45:08.602] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\themes\BillboardTheme\manifest.json
+[2022-07-25T18:45:09.024] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\themes\BoxTheme\manifest.json
+[2022-07-25T18:45:09.959] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\themes\DartTheme\manifest.json
+[2022-07-25T18:45:11.032] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\themes\DashboardTheme\manifest.json
+[2022-07-25T18:45:12.616] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\themes\FoldableTheme\manifest.json
+[2022-07-25T18:45:13.825] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\themes\JewelryBoxTheme\manifest.json
+[2022-07-25T18:45:14.929] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\themes\LaunchpadTheme\manifest.json
+[2022-07-25T18:45:16.389] [INFO] repo - theme changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\themes\TabTheme\manifest.json
+[2022-07-25T18:45:17.812] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\3DFx\manifest.json
+[2022-07-25T18:45:18.591] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\About\manifest.json
+[2022-07-25T18:45:19.304] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\BasemapGallery\manifest.json
+[2022-07-25T18:45:19.587] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\Compass\manifest.json
+[2022-07-25T18:45:19.920] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\Coordinate\manifest.json
+[2022-07-25T18:45:20.630] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\Daylight\manifest.json
+[2022-07-25T18:45:21.243] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\FullScreen\manifest.json
+[2022-07-25T18:45:21.621] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\Home\manifest.json
+[2022-07-25T18:45:21.953] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\LayerList\manifest.json
+[2022-07-25T18:45:22.282] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\Legend\manifest.json
+[2022-07-25T18:45:22.548] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\Measurement3D\manifest.json
+[2022-07-25T18:45:23.212] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\MyLocation\manifest.json
+[2022-07-25T18:45:23.874] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\Navigate\manifest.json
+[2022-07-25T18:45:24.536] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\Search\manifest.json
+[2022-07-25T18:45:25.226] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\Share\manifest.json
+[2022-07-25T18:45:25.888] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\Slides\manifest.json
+[2022-07-25T18:45:26.252] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\Splash\manifest.json
+[2022-07-25T18:45:27.102] [INFO] repo - widget changed: E:\Geographic Information Systems - Seneca College\Internet Mapping\Assignment 4\ArcGISWebAppBuilder\client\stemapp3d\widgets\ZoomSlider\manifest.json
